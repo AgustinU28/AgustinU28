@@ -11,7 +11,7 @@ Actualmente busco oportunidades laborales como **Desarrollador Web o React Devel
 
 📍 **Bahía Blanca, Argentina**  
 📫 **agustinuranga@live.com**  
-🌐 [Mi portafolio](https://portafolio-18cv5k3vk-agustins-projects-6c505af9.vercel.app/)  
+
 
 ---
 
