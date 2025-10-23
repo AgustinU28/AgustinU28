@@ -29,15 +29,7 @@ Actualmente busco oportunidades laborales como **Desarrollador Web o React Devel
 🔹 [**RIGANO**](https://github.com/AgustinU28/RIGANO) — Proyecto real para imprenta en TypeScript.  
 🔹 [**Calculadora de Plazo Fijo**](https://github.com/AgustinU28/Calculadora-de-plazo-fijo-30-dias) — Proyecto simple con HTML, CSS y JS.  
 
----
 
-### 📈 Estadísticas de GitHub
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AgustinU28&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinU28&theme=tokyonight" />
-</p>
-
----
 
 ### 🧠 En constante aprendizaje
 - Mejorando mis habilidades en **React Native** y **TypeScript**  
@@ -52,6 +44,4 @@ Actualmente busco oportunidades laborales como **Desarrollador Web o React Devel
   <a href="https://portafolio-18cv5k3vk-agustins-projects-6c505af9.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
----
 
-⭐ *"El mejor código es el que hace la vida de alguien más un poco más fácil."*  
